@@ -1,0 +1,128 @@
+File Name: test_images/test7.jpg
+Memory consumed: 92.168 MB
+Time taken by process: 1.458 seconds
+
+File Name: test_images/img9.jpeg
+Memory consumed: 92.020 MB
+Time taken by process: 1.533 seconds
+
+File Name: test_images/test12.jpeg
+Memory consumed: 68.250 MB
+Time taken by process: 0.911 seconds
+
+File Name: test_images/test1.jpg
+Memory consumed: 92.824 MB
+Time taken by process: 1.364 seconds
+
+File Name: test_images/img1.jpeg
+Memory consumed: 92.492 MB
+Time taken by process: 1.351 seconds
+
+File Name: test_images/nimg8.jpeg
+Memory consumed: 92.711 MB
+Time taken by process: 1.400 seconds
+
+File Name: test_images/img8.jpeg
+Memory consumed: 92.918 MB
+Time taken by process: 1.334 seconds
+
+File Name: test_images/nimg3.jpeg
+Memory consumed: 92.195 MB
+Time taken by process: 1.418 seconds
+
+File Name: test_images/img5.jpeg
+Memory consumed: 92.430 MB
+Time taken by process: 1.442 seconds
+
+File Name: test_images/img2.jpeg
+Memory consumed: 91.871 MB
+Time taken by process: 1.602 seconds
+
+File Name: test_images/test3.jpg
+Memory consumed: 91.656 MB
+Time taken by process: 1.411 seconds
+
+File Name: test_images/nimg6.jpeg
+Memory consumed: 92.742 MB
+Time taken by process: 1.530 seconds
+
+File Name: test_images/test11.jpeg
+Memory consumed: 68.781 MB
+Time taken by process: 1.043 seconds
+
+File Name: test_images/img6.jpeg
+Memory consumed: 92.484 MB
+Time taken by process: 1.528 seconds
+
+File Name: test_images/nimg1.jpeg
+Memory consumed: 92.680 MB
+Time taken by process: 1.489 seconds
+
+File Name: test_images/img7.jpeg
+Memory consumed: 92.477 MB
+Time taken by process: 1.370 seconds
+
+File Name: test_images/test5.jpg
+Memory consumed: 92.227 MB
+Time taken by process: 1.310 seconds
+
+File Name: test_images/nimg4.jpeg
+Memory consumed: 92.488 MB
+Time taken by process: 1.402 seconds
+
+File Name: test_images/img.png
+Memory consumed: 90.422 MB
+Time taken by process: 1.010 seconds
+
+File Name: test_images/nimg2.jpeg
+Memory consumed: 63.359 MB
+Time taken by process: 1.414 seconds
+
+File Name: test_images/test8.jpeg
+Memory consumed: 67.730 MB
+Time taken by process: 0.868 seconds
+
+File Name: test_images/test2.jpg
+Memory consumed: 92.551 MB
+Time taken by process: 1.271 seconds
+
+File Name: test_images/nimg9.jpeg
+Memory consumed: 92.355 MB
+Time taken by process: 1.397 seconds
+
+File Name: test_images/img4.jpg
+Memory consumed: 92.277 MB
+Time taken by process: 1.336 seconds
+
+File Name: test_images/img3.jpeg
+Memory consumed: 92.223 MB
+Time taken by process: 1.328 seconds
+
+File Name: test_images/nimg7.jpeg
+Memory consumed: 92.441 MB
+Time taken by process: 1.410 seconds
+
+File Name: test_images/test9.jpeg
+Memory consumed: 68.746 MB
+Time taken by process: 0.877 seconds
+
+File Name: test_images/test6.jpg
+Memory consumed: 92.289 MB
+Time taken by process: 1.279 seconds
+
+File Name: test_images/test4.jpg
+Memory consumed: 92.262 MB
+Time taken by process: 1.249 seconds
+
+File Name: test_images/test.jpg
+Memory consumed: 92.379 MB
+Time taken by process: 1.274 seconds
+
+File Name: test_images/test10.jpeg
+Memory consumed: 68.211 MB
+Time taken by process: 0.879 seconds
+
+File Name: test_images/nimg5.jpeg
+Memory consumed: 93.074 MB
+Time taken by process: 1.411 seconds
+

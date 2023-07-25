@@ -1,11 +1,15 @@
-from picamera import PiCamera
 import time
+from picamera2 import Picamera2, Preview
 
-camera = PiCamera()
+picam = Picamera2()
 
-camera.start_preview()
-time.sleep(10)
+config = picam.create_preview_configuration()
+picam.configure(config)
 
-filename = "img.jpg"
+picam.start_preview()
 
-camera.capture(filename)
+picam.start()
+time.sleep(2)
+picam.capture_file("img.jpg")
+
+picam.close()

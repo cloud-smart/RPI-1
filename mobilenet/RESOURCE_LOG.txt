@@ -1,0 +1,2 @@
+File Name: img.jpg
+Memory consumed: 110.711 MB
