@@ -14,7 +14,7 @@ typedef struct struct_message {
 struct_message myData;
 
 int prev_time = 0;
-int DELAY = 60000;
+int DELAY = 25000;
 int curr_time;
 
 #ifndef APSSID
@@ -26,11 +26,14 @@ int curr_time;
 
 
 //WiFi credentials
+//const char* ssid = "n.o.y.b";
+//const char* wifi_password = "applesamsung123";
 const char* ssid = "snsriramaLab";
 const char* wifi_password = "Cloud&Smart";
 
 // MQTT parameters
-const char* mqtt_server = "192.168.0.132";//192.168.0.132
+//const char* mqtt_server = "192.168.0.103";
+const char* mqtt_server = "192.168.0.132";
 const char* mqtt_topic = "motion_detection";
 const char* mqtt_username = "user";
 const char* mqtt_password = "pwd";

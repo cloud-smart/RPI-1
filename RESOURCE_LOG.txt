@@ -1,0 +1,110 @@
+File Name: img.jpg
+Memory consumed: 105.660 MB
+File Name: img.jpg
+Memory consumed: 105.918 MB
+File Name: img.jpg
+Memory consumed: 106.027 MB
+File Name: img.jpg
+Memory consumed: 106.359 MB
+File Name: img.jpg
+Memory consumed: 107.102 MB
+File Name: img.jpg
+Memory consumed: 106.289 MB
+File Name: img.jpg
+Memory consumed: 106.871 MB
+File Name: img.jpg
+Memory consumed: 106.547 MB
+File Name: img.jpg
+Memory consumed: 106.172 MB
+File Name: img.jpg
+Memory consumed: 107.117 MB
+File Name: img.jpg
+Memory consumed: 106.406 MB
+File Name: img.jpg
+Memory consumed: 106.012 MB
+File Name: img.jpg
+Memory consumed: 106.293 MB
+File Name: img.jpg
+Memory consumed: 106.645 MB
+File Name: img.jpg
+Memory consumed: 106.551 MB
+File Name: img.jpg
+Memory consumed: 106.258 MB
+File Name: img.jpg
+Memory consumed: 106.578 MB
+File Name: img.jpg
+Memory consumed: 106.375 MB
+File Name: img.jpg
+Memory consumed: 106.285 MB
+File Name: img.jpg
+Memory consumed: 106.699 MB
+File Name: img.jpg
+Memory consumed: 106.039 MB
+File Name: img.jpg
+Memory consumed: 106.281 MB
+File Name: img.jpg
+Memory consumed: 106.191 MB
+File Name: img.jpg
+Memory consumed: 106.289 MB
+File Name: mobilenet/input/31-Jul-23-13:31:11.jpeg
+Memory consumed: 107.004 MB
+File Name: mobilenet/input/31-Jul-23-13:32:27.jpeg
+Memory consumed: 106.812 MB
+File Name: mobilenet/input/31-Jul-23-13:33:11.jpeg
+Memory consumed: 106.664 MB
+File Name: mobilenet/input/31-Jul-23-13:33:46.jpeg
+Memory consumed: 106.820 MB
+File Name: mobilenet/input/31-Jul-23-13:34:50.jpeg
+Memory consumed: 105.988 MB
+File Name: mobilenet/input/31-Jul-23-13:35:18.jpeg
+Memory consumed: 106.281 MB
+File Name: mobilenet/input/31-Jul-23-13:35:47.jpeg
+Memory consumed: 106.090 MB
+File Name: mobilenet/input/31-Jul-23-13:36:19.jpeg
+Memory consumed: 106.727 MB
+File Name: mobilenet/input/31-Jul-23-13:37:04.jpeg
+Memory consumed: 106.508 MB
+File Name: nimg2.jpeg
+Memory consumed: 111.285 MB
+File Name: nimg2.jpeg
+Memory consumed: 110.859 MB
+File Name: nimg2.jpeg
+Memory consumed: 110.918 MB
+File Name: nimg2.jpeg
+Memory consumed: 111.320 MB
+File Name: nimg2.jpeg
+Memory consumed: 110.965 MB
+File Name: nimg2.jpeg
+Memory consumed: 111.023 MB
+File Name: nimg2.jpeg
+Memory consumed: 110.797 MB
+File Name: nimg2.jpeg
+Memory consumed: 111.539 MB
+File Name: nimg2.jpeg
+Memory consumed: 111.625 MB
+File Name: nimg2.jpeg
+Memory consumed: 110.898 MB
+File Name: nimg2.jpeg
+Memory consumed: 111.219 MB
+File Name: nimg2.jpeg
+Memory consumed: 110.797 MB
+File Name: nimg2.jpeg
+Memory consumed: 110.984 MB
+File Name: nimg2.jpeg
+Memory consumed: 111.355 MB
+File Name: mobilenet/nimg2.jpeg
+Memory consumed: 111.109 MB
+File Name: mobilenet/nimg2.jpeg
+Memory consumed: 111.227 MB
+File Name: mobilenet/nimg2.jpeg
+Memory consumed: 111.082 MB
+File Name: mobilenet/input/01-Aug-23-11:01:23.jpeg
+Memory consumed: 106.570 MB
+File Name: mobilenet/input/01-Aug-23-11:08:29.jpeg
+Memory consumed: 106.359 MB
+File Name: mobilenet/input/01-Aug-23-11:08:47.jpeg
+Memory consumed: 106.742 MB
+File Name: mobilenet/input/01-Aug-23-11:10:08.jpeg
+Memory consumed: 106.227 MB
+File Name: mobilenet/input/01-Aug-23-11:11:11.jpeg
+Memory consumed: 106.445 MB

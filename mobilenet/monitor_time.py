@@ -24,7 +24,7 @@ if os.path.exists("RESOURCE_LOG.txt"):
     os.remove("RESOURCE_LOG.txt")
                 
 #iterate over all test_images
-for img in os.listdir("/home/pi-101/Sem-4/Models/SSD_MobileNet/test_images"):
+for img in os.listdir("/home/pi/RPI-1/mobilenet/test_images"):
     
     # Command to mrun model
     command = "python3 obj_det.py --prototxt SSD_MobileNet_prototxt.txt --model SSD_MobileNet.caffemodel --image test_images/" + str(img)

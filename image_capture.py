@@ -2,9 +2,9 @@ from paho.mqtt import client as mqtt_client
 import subprocess
 import sys
 
-f = open('ip.txt', 'r')
+f = open('/home/pi/RPI-1/ip.txt', 'r')
 broker = f.read().strip()
-kafka_broker = broker + ":9092"
+#kafka_broker = broker + ":9092"
 port = 1883
 topic = "motion_detection"
 username = 'user'
@@ -38,7 +38,8 @@ def subscribe(client: mqtt_client):
             angle = 180
         import motor
         motor.turn(angle)
-        print(subprocess.run(["bash", "cam.sh", broker + ":9092"], capture_output = True))
+        print(subprocess.run(["python", "/home/pi/RPI-1/cam.py"], capture_output = True))
+        #print(subprocess.run(["bash", "cam.sh", broker + ":9092"], capture_output = True))
         #motor.turn(angle = 0)
     client.subscribe(topic)
     client.on_message = on_message

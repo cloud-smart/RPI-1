@@ -1,2 +1,9 @@
-File Name: img.jpg
-Memory consumed: 110.711 MB
+
+File Name: input/31-Jul-23-13:39:07.jpeg
+Memory consumed: 106.148 MB
+File Name: nimg2.jpeg
+Memory consumed: 110.996 MB
+File Name: input/01-Aug-23-10:53:06.jpeg
+Memory consumed: 106.711 MB
+File Name: mobilenet/input/04-Aug-23-10:46:00.jpeg
+Memory consumed: 106.367 MB

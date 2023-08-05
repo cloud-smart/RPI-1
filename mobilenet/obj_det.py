@@ -5,6 +5,9 @@ import cv2
 import psutil
 import timeit, time
 import os
+import subprocess
+import sys
+
 
 # initialize the list of class labels MobileNet SSD was trained to
 # detect, then generate a set of bounding box colors for each class
@@ -63,10 +66,15 @@ def detect(args):
 				cv2.FONT_HERSHEY_SIMPLEX, 0.5, COLORS[idx], 2)
 
 	print("Number of person(s) detected in the image - " + str(person_count))
+	
+	if person_count > 0 :
+		subprocess.run(["python", "/home/pi/RPI-1/deployment-server/update.py"], capture_output = True)
+	
 	#show the output image
 	#cv2.imshow("Output", image)
 	#cv2.waitKey(0)
-	cv2.imwrite("op/op" + str(args["image"][4]) + ".jpeg", image)
+	print(str(args["image"]))
+	cv2.imwrite("/home/pi/RPI-1/mobilenet/output/" + str(args["image"][16:]), image)
 
 # construct the argument parse and parse the arguments
 ap = argparse.ArgumentParser()
@@ -86,7 +94,7 @@ detect(args)
 #Log the memory consumed by the program
 s = "File Name: " + args["image"] + "\nMemory consumed: {:.3f} MB".format(psutil.Process(os.getpid()).memory_info().rss / (1024 **2))
 
-with open("RESOURCE_LOG.txt", 'a') as file:
+with open("/home/pi/RPI-1/mobilenet/RESOURCE_LOG.txt", 'a') as file:
 	file.write(s + '\n')
 
 print()
