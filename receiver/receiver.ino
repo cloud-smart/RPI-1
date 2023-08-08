@@ -28,12 +28,15 @@ int curr_time;
 //WiFi credentials
 //const char* ssid = "n.o.y.b";
 //const char* wifi_password = "applesamsung123";
-const char* ssid = "snsriramaLab";
-const char* wifi_password = "Cloud&Smart";
+//const char* ssid = "snsriramaLab";
+//const char* wifi_password = "Cloud&Smart";
+const char* ssid = "JioFi4_0E75A8";
+const char* wifi_password = "jio12345";
 
 // MQTT parameters
 //const char* mqtt_server = "192.168.0.103";
-const char* mqtt_server = "192.168.0.132";
+//const char* mqtt_server = "192.168.0.132";
+const char* mqtt_server = "192.168.225.25";
 const char* mqtt_topic = "motion_detection";
 const char* mqtt_username = "user";
 const char* mqtt_password = "pwd";

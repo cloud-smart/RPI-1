@@ -73,8 +73,8 @@ def detect(args):
 	#show the output image
 	#cv2.imshow("Output", image)
 	#cv2.waitKey(0)
-	print(str(args["image"]))
-	cv2.imwrite("/home/pi/RPI-1/mobilenet/output/" + str(args["image"][16:]), image)
+	#print(args["image"][31:])
+	cv2.imwrite("/home/pi/RPI-1/mobilenet/output/" + str(args["image"][31:]), image)
 
 # construct the argument parse and parse the arguments
 ap = argparse.ArgumentParser()
