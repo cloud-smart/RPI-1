@@ -39,3 +39,193 @@ File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-12:28:12.jpeg
 Memory consumed: 106.465 MB
 File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-12:28:19.jpeg
 Memory consumed: 106.754 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-12:56:14.jpeg
+Memory consumed: 106.258 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-12:56:48.jpeg
+Memory consumed: 106.398 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-12:56:57.jpeg
+Memory consumed: 106.977 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-12:57:06.jpeg
+Memory consumed: 106.879 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-12:57:14.jpeg
+Memory consumed: 106.820 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-12:57:25.jpeg
+Memory consumed: 106.125 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-12:57:36.jpeg
+Memory consumed: 107.156 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-12:57:44.jpeg
+Memory consumed: 106.910 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-12:57:53.jpeg
+Memory consumed: 106.215 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-12:58:30.jpeg
+Memory consumed: 106.176 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-12:58:51.jpeg
+Memory consumed: 106.395 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-12:59:16.jpeg
+Memory consumed: 106.766 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-12:59:46.jpeg
+Memory consumed: 106.508 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-13:00:42.jpeg
+Memory consumed: 106.641 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-13:00:57.jpeg
+Memory consumed: 106.711 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-13:01:04.jpeg
+Memory consumed: 106.535 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-13:01:11.jpeg
+Memory consumed: 106.457 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-13:01:17.jpeg
+Memory consumed: 65.422 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-13:01:30.jpeg
+Memory consumed: 106.371 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-13:02:41.jpeg
+Memory consumed: 106.438 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-13:03:33.jpeg
+Memory consumed: 106.258 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-13:04:29.jpeg
+Memory consumed: 106.105 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-13:05:05.jpeg
+Memory consumed: 106.184 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-13:06:08.jpeg
+Memory consumed: 106.086 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-13:06:26.jpeg
+Memory consumed: 106.695 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-13:06:35.jpeg
+Memory consumed: 106.727 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-13:09:18.jpeg
+Memory consumed: 106.520 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-13:09:29.jpeg
+Memory consumed: 105.969 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-13:10:21.jpeg
+Memory consumed: 106.477 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-13:13:15.jpeg
+Memory consumed: 106.367 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-13:16:09.jpeg
+Memory consumed: 106.543 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-13:17:15.jpeg
+Memory consumed: 106.332 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-13:17:27.jpeg
+Memory consumed: 106.105 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-13:20:09.jpeg
+Memory consumed: 106.688 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:22:14.jpeg
+Memory consumed: 106.645 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:22:45.jpeg
+Memory consumed: 106.352 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:23:03.jpeg
+Memory consumed: 106.977 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:23:26.jpeg
+Memory consumed: 106.199 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:23:45.jpeg
+Memory consumed: 106.973 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:25:27.jpeg
+Memory consumed: 107.090 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:25:39.jpeg
+Memory consumed: 106.781 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:26:52.jpeg
+Memory consumed: 106.250 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:27:12.jpeg
+Memory consumed: 106.898 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:27:35.jpeg
+Memory consumed: 106.621 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:27:52.jpeg
+Memory consumed: 106.176 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:28:12.jpeg
+Memory consumed: 106.566 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:28:34.jpeg
+Memory consumed: 107.137 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:28:57.jpeg
+Memory consumed: 106.414 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:30:23.jpeg
+Memory consumed: 105.992 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:30:49.jpeg
+Memory consumed: 106.508 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:31:11.jpeg
+Memory consumed: 107.246 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:31:30.jpeg
+Memory consumed: 106.656 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:31:45.jpeg
+Memory consumed: 105.938 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:40:55.jpeg
+Memory consumed: 106.387 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:41:09.jpeg
+Memory consumed: 106.449 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:41:21.jpeg
+Memory consumed: 106.645 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:41:32.jpeg
+Memory consumed: 106.305 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:41:45.jpeg
+Memory consumed: 106.688 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:42:55.jpeg
+Memory consumed: 106.242 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:46:13.jpeg
+Memory consumed: 106.078 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:46:33.jpeg
+Memory consumed: 106.691 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:46:50.jpeg
+Memory consumed: 106.453 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:47:02.jpeg
+Memory consumed: 106.480 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:47:17.jpeg
+Memory consumed: 106.789 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:47:32.jpeg
+Memory consumed: 106.770 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:47:47.jpeg
+Memory consumed: 106.332 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:48:05.jpeg
+Memory consumed: 107.027 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:48:22.jpeg
+Memory consumed: 106.285 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:48:34.jpeg
+Memory consumed: 106.414 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:48:48.jpeg
+Memory consumed: 106.379 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:49:16.jpeg
+Memory consumed: 107.141 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:50:25.jpeg
+Memory consumed: 106.805 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:50:37.jpeg
+Memory consumed: 106.938 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:50:51.jpeg
+Memory consumed: 106.238 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:51:06.jpeg
+Memory consumed: 106.539 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:51:25.jpeg
+Memory consumed: 106.641 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:51:48.jpeg
+Memory consumed: 106.348 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:52:04.jpeg
+Memory consumed: 106.910 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:52:18.jpeg
+Memory consumed: 106.484 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:52:30.jpeg
+Memory consumed: 107.039 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:52:43.jpeg
+Memory consumed: 106.137 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:52:57.jpeg
+Memory consumed: 106.980 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-12:53:09.jpeg
+Memory consumed: 106.961 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-13:59:52.jpeg
+Memory consumed: 65.324 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-14:01:51.jpeg
+Memory consumed: 106.285 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-14:03:03.jpeg
+Memory consumed: 106.641 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-14:05:32.jpeg
+Memory consumed: 106.293 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-14:06:30.jpeg
+Memory consumed: 106.719 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-14:07:31.jpeg
+Memory consumed: 106.668 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-14:18:34.jpeg
+Memory consumed: 106.953 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-14:18:52.jpeg
+Memory consumed: 106.184 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-14:19:02.jpeg
+Memory consumed: 106.262 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-14:19:19.jpeg
+Memory consumed: 106.520 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-14:19:33.jpeg
+Memory consumed: 106.781 MB
+File Name: /home/pi/RPI-1/mobilenet/input/09-Aug-23-14:19:46.jpeg
+Memory consumed: 106.238 MB

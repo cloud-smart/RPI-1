@@ -1,6 +1,5 @@
 from paho.mqtt import client as mqtt_client
 import subprocess
-import sys
 
 f = open('/home/pi/RPI-1/ip.txt', 'r')
 broker = f.read().strip()

@@ -1,5 +1,6 @@
 from pymongo import MongoClient
 from datetime import datetime
+import sys
 
 # datetime object containing current date and time
 now = datetime.now()
@@ -21,9 +22,8 @@ db = client[database_name]
 # Access a collection within the database
 collection = db['Motion_detected']
 
-#collection.delete_many({"Place": "SCIS backside"})
-
-mydict = { "Place": "At High Rocks", "Time": now.strftime("%d/%m/%Y %H:%M:%S") }
+#collection.delete_many({})
+mydict = { "Place": "SCIS backside", "Time": now.strftime("%d/%m/%Y %H:%M:%S") }
 
 x = collection.insert_one(mydict)
 

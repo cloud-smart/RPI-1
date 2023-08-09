@@ -14,7 +14,7 @@ typedef struct struct_message {
 struct_message myData;
 
 int prev_time = 0;
-int DELAY = 25000;
+int DELAY = 60000;
 int curr_time;
 
 #ifndef APSSID
