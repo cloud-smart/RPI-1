@@ -16,7 +16,7 @@ x = "mobilenet/input/" + datetime.datetime.now().strftime("%d-%b-%y-%X") + ".jpe
 picam.capture_file("/home/pi/RPI-1/" + x)
 
 subprocess.run(["python", "/home/pi/RPI-1/mobilenet/obj_det.py", "--prototxt", "/home/pi/RPI-1/mobilenet/SSD_MobileNet_prototxt.txt", "--model", "/home/pi/RPI-1/mobilenet/SSD_MobileNet.caffemodel", "--i", "/home/pi/RPI-1/" + x])
-subprocess.run(["python", "/home/pi/RPI-1/gdrive_upload/upload.py", x])
+subprocess.run(["python", "/home/pi/RPI-1/gdrive_upload/upload.py", "/home/pi/RPI-1/" + x])
 
 picam.close()
 

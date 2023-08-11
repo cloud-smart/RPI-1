@@ -27,5 +27,5 @@ mydict = { "Place": "SCIS backside", "Time": now.strftime("%d/%m/%Y %H:%M:%S") }
 
 x = collection.insert_one(mydict)
 
-print(x.inserted_id)
+print("Human detected! Alert sent" + x.inserted_id)
 
