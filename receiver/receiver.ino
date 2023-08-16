@@ -36,7 +36,7 @@ const char* wifi_password = "jio12345";
 // MQTT parameters
 //const char* mqtt_server = "192.168.0.103";
 //const char* mqtt_server = "192.168.0.132";
-const char* mqtt_server = "192.168.1.101";
+const char* mqtt_server = "192.168.1.105";
 const char* mqtt_topic = "motion_detection";
 const char* mqtt_username = "user";
 const char* mqtt_password = "pwd";
@@ -87,7 +87,7 @@ void setup() {
   Serial.begin(115200);
   
   // Set device as a Wi-Fi Station
-  WiFi.mode(WIFI_STA);
+  WiFi.mode(WIFI_AP_STA);
 
   //Connecting to WiFi for MQTT
   wifi_connect();
