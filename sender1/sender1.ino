@@ -16,8 +16,8 @@ struct_message myData;
 //Declare variables
 int prev_time = 0;
 int curr_time;
-const int DELAY = 5000;
-const int THRESHOLD = 800;
+const int DELAY = 3000;
+const int THRESHOLD = 900;
 
 // Callback when data is sent
 void OnDataSent(uint8_t *mac_addr, uint8_t sendStatus) {
