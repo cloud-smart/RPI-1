@@ -22,8 +22,9 @@ db = client[database_name]
 # Access a collection within the database
 collection = db['Motion_detected']
 
-#collection.delete_many({})
-mydict = { "Place": "SCIS backside", "Time": now.strftime("%d/%m/%Y %H:%M:%S") }
+collection.delete_many({})
+timee = str(sys.argv[1]) + now.strftime("\t %d/%m/%Y %H:%M:%S")
+mydict = { "Place": "SCIS front-side", "Time": timee }
 
 x = collection.insert_one(mydict)
 

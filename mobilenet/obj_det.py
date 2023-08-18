@@ -68,12 +68,13 @@ def detect(args):
 	print("Number of person(s) detected in the image - " + str(person_count))
 	
 	if person_count > 0 :
-		subprocess.run(["python", "/home/pi/RPI-1/deployment-server/update.py"], capture_output = True)
+		subprocess.run(["python", "/home/pi/RPI-1/deployment-server/update.py", str(args["image"][31:-5])], capture_output = True)
 	
 	#show the output image
 	#cv2.imshow("Output", image)
 	#cv2.waitKey(0)
 	#print(args["image"][31:])
+	
 	cv2.imwrite("/home/pi/RPI-1/mobilenet/output/" + str(args["image"][31:]), image)
 
 # construct the argument parse and parse the arguments

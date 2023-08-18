@@ -1,6 +1,10 @@
 from paho.mqtt import client as mqtt_client
 import subprocess
 
+import time, datetime
+from picamera2 import Picamera2, Preview
+import subprocess
+
 f = open('/home/pi/RPI-1/ip.txt', 'r')
 broker = f.read().strip()
 #kafka_broker = broker + ":9092"
@@ -37,7 +41,24 @@ def subscribe(client: mqtt_client):
             angle = 180
         import motor
         motor.turn(angle)
-        print(subprocess.run(["python", "/home/pi/RPI-1/cam.py"], capture_output = True))
+        
+    #Image capture
+        picam = Picamera2()
+
+        config = picam.create_preview_configuration()
+        picam.configure(config)
+
+        picam.start_preview()
+        picam.start()
+
+        x = "mobilenet/input/" + datetime.datetime.now().strftime("%d-%b-%y-%X") + ".jpeg"
+        picam.capture_file("/home/pi/RPI-1/" + x)
+        picam.close()
+        
+        # Publish image path to "imagepath" topic
+        print(client.publish("image_path", x))
+
+        #print(subprocess.run(["python", "/home/pi/RPI-1/cam.py"]))
         #print(subprocess.run(["bash", "cam.sh", broker + ":9092"], capture_output = True))
         #motor.turn(angle = 0)
     client.subscribe(topic)
