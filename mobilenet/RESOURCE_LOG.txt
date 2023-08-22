@@ -605,3 +605,1329 @@ File Name: /home/pi/RPI-1/mobilenet/input/18-Aug-23-15:12:39.jpeg
 Memory consumed: 106.270 MB
 File Name: /home/pi/RPI-1/mobilenet/input/18-Aug-23-15:13:32.jpeg
 Memory consumed: 106.406 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:31:16.jpeg
+Memory consumed: 106.496 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:31:17.jpeg
+Memory consumed: 106.359 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:31:19.jpeg
+Memory consumed: 106.887 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:31:20.jpeg
+Memory consumed: 106.965 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:31:22.jpeg
+Memory consumed: 106.930 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:31:23.jpeg
+Memory consumed: 106.152 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:31:25.jpeg
+Memory consumed: 106.848 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:49:15.jpeg
+Memory consumed: 106.574 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:49:27.jpeg
+Memory consumed: 106.438 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:49:30.jpeg
+Memory consumed: 106.480 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:52:51.jpeg
+Memory consumed: 106.469 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:52:51.jpeg
+Memory consumed: 106.742 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:52:53.jpeg
+Memory consumed: 106.762 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:52:57.jpeg
+Memory consumed: 65.316 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:53:00.jpeg
+Memory consumed: 106.547 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:53:35.jpeg
+Memory consumed: 106.793 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:55:16.jpeg
+Memory consumed: 106.172 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:55:33.jpeg
+Memory consumed: 106.645 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:55:36.jpeg
+Memory consumed: 106.785 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:55:39.jpeg
+Memory consumed: 106.113 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:55:45.jpeg
+Memory consumed: 106.910 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:55:48.jpeg
+Memory consumed: 106.816 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:55:51.jpeg
+Memory consumed: 106.207 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:56:00.jpeg
+Memory consumed: 106.141 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:56:03.jpeg
+Memory consumed: 107.004 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:56:09.jpeg
+Memory consumed: 106.727 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:56:24.jpeg
+Memory consumed: 106.156 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:56:27.jpeg
+Memory consumed: 106.617 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:56:39.jpeg
+Memory consumed: 106.832 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:56:42.jpeg
+Memory consumed: 106.461 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:56:57.jpeg
+Memory consumed: 106.492 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:57:00.jpeg
+Memory consumed: 106.289 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:12:45.jpeg
+Memory consumed: 106.211 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:12:46.jpeg
+Memory consumed: 106.715 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:12:48.jpeg
+Memory consumed: 106.441 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:12:49.jpeg
+Memory consumed: 106.816 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:12:50.jpeg
+Memory consumed: 106.828 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:12:51.jpeg
+Memory consumed: 106.078 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:12:54.jpeg
+Memory consumed: 106.504 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:12:55.jpeg
+Memory consumed: 106.141 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:12:56.jpeg
+Memory consumed: 106.398 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:12:57.jpeg
+Memory consumed: 106.723 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:33:41.jpeg
+Memory consumed: 106.152 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:33:42.jpeg
+Memory consumed: 106.133 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:33:45.jpeg
+Memory consumed: 106.289 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:33:47.jpeg
+Memory consumed: 106.246 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:33:50.jpeg
+Memory consumed: 106.707 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:34:48.jpeg
+Memory consumed: 106.832 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:34:50.jpeg
+Memory consumed: 106.438 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:34:51.jpeg
+Memory consumed: 106.023 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:34:53.jpeg
+Memory consumed: 106.180 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:34:58.jpeg
+Memory consumed: 106.203 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:34:59.jpeg
+Memory consumed: 106.438 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:35:00.jpeg
+Memory consumed: 106.609 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:35:03.jpeg
+Memory consumed: 106.094 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:35:05.jpeg
+Memory consumed: 106.621 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:35:06.jpeg
+Memory consumed: 106.484 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:35:07.jpeg
+Memory consumed: 106.445 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:35:10.jpeg
+Memory consumed: 106.555 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:43:43.jpeg
+Memory consumed: 105.938 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:43:44.jpeg
+Memory consumed: 106.605 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:43:46.jpeg
+Memory consumed: 106.332 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-11:43:46.jpeg
+Memory consumed: 106.461 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:32:30.jpeg
+Memory consumed: 106.754 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:32:30.jpeg
+Memory consumed: 106.844 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:32:30.jpeg
+Memory consumed: 106.902 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:32:39.jpeg
+Memory consumed: 106.711 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:32:39.jpeg
+Memory consumed: 106.742 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:32:30.jpeg
+Memory consumed: 106.430 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:32:42.jpeg
+Memory consumed: 106.395 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:33:09.jpeg
+Memory consumed: 106.762 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:33:51.jpeg
+Memory consumed: 106.801 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:33:57.jpeg
+Memory consumed: 107.094 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:34:00.jpeg
+Memory consumed: 106.609 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:34:03.jpeg
+Memory consumed: 106.727 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:34:06.jpeg
+Memory consumed: 106.930 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:34:09.jpeg
+Memory consumed: 106.664 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:34:45.jpeg
+Memory consumed: 106.797 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:35:06.jpeg
+Memory consumed: 106.266 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:35:15.jpeg
+Memory consumed: 106.707 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:35:27.jpeg
+Memory consumed: 106.281 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:35:30.jpeg
+Memory consumed: 106.160 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:35:51.jpeg
+Memory consumed: 106.578 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:36:06.jpeg
+Memory consumed: 106.297 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:36:09.jpeg
+Memory consumed: 106.344 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:36:12.jpeg
+Memory consumed: 106.324 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:36:18.jpeg
+Memory consumed: 106.645 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:36:24.jpeg
+Memory consumed: 106.328 MB
+File Name: /home/pi/RPI-1/mobilenet/input/req_imgs/22-Aug-23-11:36:27.jpeg
+Memory consumed: 106.910 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:45.jpeg
+Memory consumed: 105.883 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:03:39.jpeg
+Memory consumed: 106.867 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:19:06.jpeg
+Memory consumed: 106.453 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:12:16.jpeg
+Memory consumed: 106.055 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/01-Aug-23-11:08:47.jpeg
+Memory consumed: 106.016 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:06.jpeg
+Memory consumed: 107.012 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:07:57.jpeg
+Memory consumed: 106.289 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:00:19.jpeg
+Memory consumed: 106.066 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:42.jpeg
+Memory consumed: 106.742 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:42.jpeg
+Memory consumed: 106.449 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-15:38:29.jpeg
+Memory consumed: 106.039 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/11-Aug-23-10:34:46.jpeg
+Memory consumed: 106.637 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:45.jpeg
+Memory consumed: 106.527 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:45.jpeg
+Memory consumed: 106.902 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:03:39.jpeg
+Memory consumed: 106.664 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:19:06.jpeg
+Memory consumed: 106.938 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:12:16.jpeg
+Memory consumed: 106.914 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/01-Aug-23-11:08:47.jpeg
+Memory consumed: 105.996 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:06.jpeg
+Memory consumed: 106.566 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:07:57.jpeg
+Memory consumed: 106.168 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:00:19.jpeg
+Memory consumed: 107.242 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:42.jpeg
+Memory consumed: 106.652 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:42.jpeg
+Memory consumed: 106.363 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-15:38:29.jpeg
+Memory consumed: 106.285 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/11-Aug-23-10:34:46.jpeg
+Memory consumed: 106.402 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:53:14.jpeg
+Memory consumed: 106.086 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:54.jpeg
+Memory consumed: 106.934 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:24.jpeg
+Memory consumed: 106.172 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:45.jpeg
+Memory consumed: 106.734 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-11:57:47.jpeg
+Memory consumed: 107.102 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:51.jpeg
+Memory consumed: 106.090 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-11:57:14.jpeg
+Memory consumed: 106.426 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:58:54.jpeg
+Memory consumed: 106.297 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:37:42.jpeg
+Memory consumed: 106.129 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:58:45.jpeg
+Memory consumed: 106.582 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:23.jpeg
+Memory consumed: 106.258 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:55:48.jpeg
+Memory consumed: 106.172 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:24:23.jpeg
+Memory consumed: 106.125 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:07.jpeg
+Memory consumed: 106.285 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:09.jpeg
+Memory consumed: 106.375 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-15:47:45.jpeg
+Memory consumed: 106.230 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:31:37.jpeg
+Memory consumed: 106.387 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-18:36:43.jpeg
+Memory consumed: 106.547 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/04-Aug-23-10:40:53.jpeg
+Memory consumed: 106.848 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:01:48.jpeg
+Memory consumed: 106.699 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:02:03.jpeg
+Memory consumed: 106.820 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:04.jpeg
+Memory consumed: 106.141 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:03:40.jpeg
+Memory consumed: 106.602 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:30.jpeg
+Memory consumed: 106.301 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:01:09.jpeg
+Memory consumed: 106.934 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/18-Aug-23-15:13:32.jpeg
+Memory consumed: 106.312 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:18.jpeg
+Memory consumed: 106.754 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:52:53.jpeg
+Memory consumed: 106.379 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/11-Aug-23-10:36:25.jpeg
+Memory consumed: 106.277 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:11:31.jpeg
+Memory consumed: 106.617 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:02:03.jpeg
+Memory consumed: 106.414 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:31:19.jpeg
+Memory consumed: 106.703 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:11:46.jpeg
+Memory consumed: 106.734 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:03.jpeg
+Memory consumed: 106.914 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/04-Aug-23-10:46:00.jpeg
+Memory consumed: 106.148 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:52.jpeg
+Memory consumed: 106.301 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-12:05:46.jpeg
+Memory consumed: 106.379 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:09.jpeg
+Memory consumed: 106.863 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:03.jpeg
+Memory consumed: 106.297 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:05.jpeg
+Memory consumed: 106.555 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:51.jpeg
+Memory consumed: 106.773 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:09:21.jpeg
+Memory consumed: 106.113 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:13.jpeg
+Memory consumed: 106.492 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:27.jpeg
+Memory consumed: 106.070 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:49:15.jpeg
+Memory consumed: 106.145 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:58:57.jpeg
+Memory consumed: 106.551 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:57.jpeg
+Memory consumed: 65.742 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:55.jpeg
+Memory consumed: 106.430 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:27.jpeg
+Memory consumed: 106.301 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:00.jpeg
+Memory consumed: 106.711 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-14:54:45.jpeg
+Memory consumed: 106.031 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:58:51.jpeg
+Memory consumed: 106.906 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:05:39.jpeg
+Memory consumed: 106.730 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:10.jpeg
+Memory consumed: 106.527 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:07:26.jpeg
+Memory consumed: 106.754 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:03:46.jpeg
+Memory consumed: 106.352 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:21.jpeg
+Memory consumed: 106.379 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:48.jpeg
+Memory consumed: 106.855 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-15:36:56.jpeg
+Memory consumed: 106.285 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:06.jpeg
+Memory consumed: 106.113 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:51.jpeg
+Memory consumed: 106.840 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:03.jpeg
+Memory consumed: 106.645 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-15:39:55.jpeg
+Memory consumed: 106.367 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:53:30.jpeg
+Memory consumed: 106.906 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:06.jpeg
+Memory consumed: 106.316 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-14:56:19.jpeg
+Memory consumed: 106.262 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:30.jpeg
+Memory consumed: 106.863 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:56.jpeg
+Memory consumed: 106.168 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-11:58:30.jpeg
+Memory consumed: 106.066 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:06:46.jpeg
+Memory consumed: 106.871 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:03.jpeg
+Memory consumed: 106.723 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:48.jpeg
+Memory consumed: 106.117 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:01:03.jpeg
+Memory consumed: 106.652 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:48.jpeg
+Memory consumed: 106.094 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:39.jpeg
+Memory consumed: 106.125 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:45.jpeg
+Memory consumed: 106.434 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:53:35.jpeg
+Memory consumed: 106.414 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:51.jpeg
+Memory consumed: 106.262 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:51.jpeg
+Memory consumed: 106.496 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:31:26.jpeg
+Memory consumed: 106.109 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/04-Aug-23-10:39:09.jpeg
+Memory consumed: 106.621 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:00.jpeg
+Memory consumed: 106.902 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/04-Aug-23-10:43:06.jpeg
+Memory consumed: 106.410 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/11-Aug-23-10:38:35.jpeg
+Memory consumed: 106.754 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:58.jpeg
+Memory consumed: 106.047 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/11-Aug-23-10:35:35.jpeg
+Memory consumed: 106.566 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:01:15.jpeg
+Memory consumed: 106.129 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:15.jpeg
+Memory consumed: 106.168 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:31:34.jpeg
+Memory consumed: 106.383 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:31:29.jpeg
+Memory consumed: 106.785 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:17:03.jpeg
+Memory consumed: 107.070 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:12:26.jpeg
+Memory consumed: 107.059 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-10:16:31.jpeg
+Memory consumed: 106.066 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:00.jpeg
+Memory consumed: 106.262 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:09.jpeg
+Memory consumed: 106.137 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:17:11.jpeg
+Memory consumed: 106.242 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:08.jpeg
+Memory consumed: 106.883 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:45.jpeg
+Memory consumed: 65.492 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:13.jpeg
+Memory consumed: 106.551 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:12.jpeg
+Memory consumed: 106.793 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:11.jpeg
+Memory consumed: 106.645 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-11:43:09.jpeg
+Memory consumed: 106.367 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:45.jpeg
+Memory consumed: 106.348 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:03:39.jpeg
+Memory consumed: 106.449 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:19:06.jpeg
+Memory consumed: 106.469 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:12:16.jpeg
+Memory consumed: 106.461 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/01-Aug-23-11:08:47.jpeg
+Memory consumed: 106.344 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:06.jpeg
+Memory consumed: 106.906 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:07:57.jpeg
+Memory consumed: 106.426 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:00:19.jpeg
+Memory consumed: 106.375 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:42.jpeg
+Memory consumed: 105.922 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:45.jpeg
+Memory consumed: 106.812 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:03:39.jpeg
+Memory consumed: 106.496 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:19:06.jpeg
+Memory consumed: 106.227 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:12:16.jpeg
+Memory consumed: 106.594 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/01-Aug-23-11:08:47.jpeg
+Memory consumed: 106.977 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:06.jpeg
+Memory consumed: 106.812 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:07:57.jpeg
+Memory consumed: 106.535 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:00:19.jpeg
+Memory consumed: 106.387 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:42.jpeg
+Memory consumed: 106.852 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:42.jpeg
+Memory consumed: 106.695 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-15:38:29.jpeg
+Memory consumed: 105.996 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/11-Aug-23-10:34:46.jpeg
+Memory consumed: 106.816 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:53:14.jpeg
+Memory consumed: 106.863 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:54.jpeg
+Memory consumed: 106.066 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:24.jpeg
+Memory consumed: 106.383 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:45.jpeg
+Memory consumed: 106.395 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-11:57:47.jpeg
+Memory consumed: 106.672 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:51.jpeg
+Memory consumed: 107.125 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-11:57:14.jpeg
+Memory consumed: 106.387 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:58:54.jpeg
+Memory consumed: 106.480 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:37:42.jpeg
+Memory consumed: 106.270 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:58:45.jpeg
+Memory consumed: 106.816 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:23.jpeg
+Memory consumed: 106.516 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:55:48.jpeg
+Memory consumed: 106.383 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:24:23.jpeg
+Memory consumed: 106.383 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:07.jpeg
+Memory consumed: 106.883 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:09.jpeg
+Memory consumed: 106.605 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-15:47:45.jpeg
+Memory consumed: 106.391 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:31:37.jpeg
+Memory consumed: 106.645 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-18:36:43.jpeg
+Memory consumed: 105.945 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/04-Aug-23-10:40:53.jpeg
+Memory consumed: 106.383 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:01:48.jpeg
+Memory consumed: 106.129 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:02:03.jpeg
+Memory consumed: 106.738 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:04.jpeg
+Memory consumed: 106.758 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:03:40.jpeg
+Memory consumed: 106.625 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:30.jpeg
+Memory consumed: 107.016 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:01:09.jpeg
+Memory consumed: 106.961 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/18-Aug-23-15:13:32.jpeg
+Memory consumed: 106.840 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:18.jpeg
+Memory consumed: 107.043 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:52:53.jpeg
+Memory consumed: 106.496 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/11-Aug-23-10:36:25.jpeg
+Memory consumed: 106.914 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:11:31.jpeg
+Memory consumed: 106.148 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:02:03.jpeg
+Memory consumed: 107.004 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:31:19.jpeg
+Memory consumed: 106.164 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:11:46.jpeg
+Memory consumed: 106.512 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:03.jpeg
+Memory consumed: 106.938 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/04-Aug-23-10:46:00.jpeg
+Memory consumed: 106.578 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:52.jpeg
+Memory consumed: 107.012 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-12:05:46.jpeg
+Memory consumed: 106.227 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:09.jpeg
+Memory consumed: 106.402 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:03.jpeg
+Memory consumed: 106.359 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:05.jpeg
+Memory consumed: 106.828 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:51.jpeg
+Memory consumed: 106.668 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:09:21.jpeg
+Memory consumed: 107.105 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:13.jpeg
+Memory consumed: 106.488 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:27.jpeg
+Memory consumed: 106.371 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:49:15.jpeg
+Memory consumed: 107.215 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:58:57.jpeg
+Memory consumed: 106.969 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:57.jpeg
+Memory consumed: 65.086 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:55.jpeg
+Memory consumed: 106.332 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:27.jpeg
+Memory consumed: 106.645 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:00.jpeg
+Memory consumed: 106.742 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-14:54:45.jpeg
+Memory consumed: 106.699 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:58:51.jpeg
+Memory consumed: 106.586 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:05:39.jpeg
+Memory consumed: 106.727 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:10.jpeg
+Memory consumed: 66.113 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:07:26.jpeg
+Memory consumed: 106.520 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:03:46.jpeg
+Memory consumed: 106.738 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:21.jpeg
+Memory consumed: 106.258 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:48.jpeg
+Memory consumed: 106.496 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-15:36:56.jpeg
+Memory consumed: 106.844 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:06.jpeg
+Memory consumed: 106.770 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:51.jpeg
+Memory consumed: 105.953 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:03.jpeg
+Memory consumed: 106.785 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-15:39:55.jpeg
+Memory consumed: 106.777 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:53:30.jpeg
+Memory consumed: 106.992 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:06.jpeg
+Memory consumed: 106.152 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-14:56:19.jpeg
+Memory consumed: 106.871 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:30.jpeg
+Memory consumed: 106.742 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:56.jpeg
+Memory consumed: 106.957 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-11:58:30.jpeg
+Memory consumed: 106.105 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:06:46.jpeg
+Memory consumed: 106.023 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:03.jpeg
+Memory consumed: 106.609 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:48.jpeg
+Memory consumed: 106.648 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:01:03.jpeg
+Memory consumed: 106.234 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:48.jpeg
+Memory consumed: 106.297 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:39.jpeg
+Memory consumed: 106.543 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:45.jpeg
+Memory consumed: 106.914 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:53:35.jpeg
+Memory consumed: 107.012 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:51.jpeg
+Memory consumed: 106.203 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:51.jpeg
+Memory consumed: 106.273 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:31:26.jpeg
+Memory consumed: 106.898 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/04-Aug-23-10:39:09.jpeg
+Memory consumed: 106.477 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:00.jpeg
+Memory consumed: 106.395 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/04-Aug-23-10:43:06.jpeg
+Memory consumed: 106.969 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/11-Aug-23-10:38:35.jpeg
+Memory consumed: 106.742 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:58.jpeg
+Memory consumed: 106.945 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/11-Aug-23-10:35:35.jpeg
+Memory consumed: 106.738 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:01:15.jpeg
+Memory consumed: 106.113 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:15.jpeg
+Memory consumed: 106.039 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:31:34.jpeg
+Memory consumed: 65.512 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:31:29.jpeg
+Memory consumed: 106.117 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:17:03.jpeg
+Memory consumed: 106.434 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:12:26.jpeg
+Memory consumed: 106.391 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-10:16:31.jpeg
+Memory consumed: 106.637 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:00.jpeg
+Memory consumed: 106.305 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:09.jpeg
+Memory consumed: 106.809 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:17:11.jpeg
+Memory consumed: 106.719 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:08.jpeg
+Memory consumed: 106.160 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:45.jpeg
+Memory consumed: 106.805 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:13.jpeg
+Memory consumed: 106.340 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:12.jpeg
+Memory consumed: 106.438 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:11.jpeg
+Memory consumed: 106.742 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-11:43:09.jpeg
+Memory consumed: 106.262 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:45.jpeg
+Memory consumed: 106.219 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:03:39.jpeg
+Memory consumed: 106.582 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:19:06.jpeg
+Memory consumed: 106.605 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:12:16.jpeg
+Memory consumed: 106.785 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/01-Aug-23-11:08:47.jpeg
+Memory consumed: 106.727 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:06.jpeg
+Memory consumed: 106.965 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:07:57.jpeg
+Memory consumed: 106.211 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:00:19.jpeg
+Memory consumed: 106.055 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:42.jpeg
+Memory consumed: 106.074 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:42.jpeg
+Memory consumed: 106.164 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-15:38:29.jpeg
+Memory consumed: 106.383 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/11-Aug-23-10:34:46.jpeg
+Memory consumed: 106.078 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:53:14.jpeg
+Memory consumed: 106.852 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:54.jpeg
+Memory consumed: 106.957 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:24.jpeg
+Memory consumed: 106.848 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:45.jpeg
+Memory consumed: 106.398 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-11:57:47.jpeg
+Memory consumed: 106.477 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:51.jpeg
+Memory consumed: 106.098 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-11:57:14.jpeg
+Memory consumed: 106.305 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:58:54.jpeg
+Memory consumed: 106.879 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:37:42.jpeg
+Memory consumed: 106.492 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:58:45.jpeg
+Memory consumed: 106.766 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:23.jpeg
+Memory consumed: 106.562 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:55:48.jpeg
+Memory consumed: 106.430 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:24:23.jpeg
+Memory consumed: 106.391 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:07.jpeg
+Memory consumed: 106.996 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:09.jpeg
+Memory consumed: 106.109 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-15:47:45.jpeg
+Memory consumed: 107.090 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:31:37.jpeg
+Memory consumed: 106.129 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-18:36:43.jpeg
+Memory consumed: 106.629 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/04-Aug-23-10:40:53.jpeg
+Memory consumed: 106.270 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:01:48.jpeg
+Memory consumed: 107.219 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:02:03.jpeg
+Memory consumed: 106.559 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:04.jpeg
+Memory consumed: 106.062 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:03:40.jpeg
+Memory consumed: 106.566 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:30.jpeg
+Memory consumed: 106.855 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:01:09.jpeg
+Memory consumed: 106.242 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/18-Aug-23-15:13:32.jpeg
+Memory consumed: 106.223 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:18.jpeg
+Memory consumed: 106.723 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:52:53.jpeg
+Memory consumed: 106.145 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/11-Aug-23-10:36:25.jpeg
+Memory consumed: 106.406 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:11:31.jpeg
+Memory consumed: 106.328 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:02:03.jpeg
+Memory consumed: 106.301 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:31:19.jpeg
+Memory consumed: 106.535 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:11:46.jpeg
+Memory consumed: 105.828 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:03.jpeg
+Memory consumed: 106.805 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/04-Aug-23-10:46:00.jpeg
+Memory consumed: 106.406 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:52.jpeg
+Memory consumed: 106.734 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-12:05:46.jpeg
+Memory consumed: 106.867 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:09.jpeg
+Memory consumed: 106.590 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:03.jpeg
+Memory consumed: 106.758 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:05.jpeg
+Memory consumed: 106.457 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:51.jpeg
+Memory consumed: 106.137 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:09:21.jpeg
+Memory consumed: 106.121 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:13.jpeg
+Memory consumed: 106.602 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:27.jpeg
+Memory consumed: 106.340 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:49:15.jpeg
+Memory consumed: 106.582 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:58:57.jpeg
+Memory consumed: 106.148 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:57.jpeg
+Memory consumed: 65.680 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:55.jpeg
+Memory consumed: 106.562 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:27.jpeg
+Memory consumed: 106.328 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:00.jpeg
+Memory consumed: 107.000 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-14:54:45.jpeg
+Memory consumed: 106.094 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:58:51.jpeg
+Memory consumed: 106.609 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:05:39.jpeg
+Memory consumed: 106.113 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:10.jpeg
+Memory consumed: 106.398 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:07:26.jpeg
+Memory consumed: 106.121 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:03:46.jpeg
+Memory consumed: 106.480 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:21.jpeg
+Memory consumed: 106.152 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:48.jpeg
+Memory consumed: 106.938 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-15:36:56.jpeg
+Memory consumed: 106.707 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:06.jpeg
+Memory consumed: 106.914 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:51.jpeg
+Memory consumed: 106.371 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:03.jpeg
+Memory consumed: 106.766 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-15:39:55.jpeg
+Memory consumed: 106.277 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:53:30.jpeg
+Memory consumed: 106.934 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:06.jpeg
+Memory consumed: 106.566 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-14:56:19.jpeg
+Memory consumed: 106.309 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:30.jpeg
+Memory consumed: 106.125 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:56.jpeg
+Memory consumed: 106.727 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-11:58:30.jpeg
+Memory consumed: 106.180 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:06:46.jpeg
+Memory consumed: 107.074 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:03.jpeg
+Memory consumed: 106.082 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:48.jpeg
+Memory consumed: 106.039 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:01:03.jpeg
+Memory consumed: 106.371 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:48.jpeg
+Memory consumed: 106.191 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:39.jpeg
+Memory consumed: 106.496 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:45.jpeg
+Memory consumed: 106.504 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:53:35.jpeg
+Memory consumed: 106.613 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:51.jpeg
+Memory consumed: 106.105 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:51.jpeg
+Memory consumed: 106.234 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:31:26.jpeg
+Memory consumed: 106.676 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/04-Aug-23-10:39:09.jpeg
+Memory consumed: 106.070 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:00.jpeg
+Memory consumed: 106.523 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/04-Aug-23-10:43:06.jpeg
+Memory consumed: 107.367 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/11-Aug-23-10:38:35.jpeg
+Memory consumed: 106.348 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:58.jpeg
+Memory consumed: 106.934 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/11-Aug-23-10:35:35.jpeg
+Memory consumed: 106.750 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:01:15.jpeg
+Memory consumed: 106.895 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:15.jpeg
+Memory consumed: 106.348 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:31:34.jpeg
+Memory consumed: 106.320 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:31:29.jpeg
+Memory consumed: 106.312 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:17:03.jpeg
+Memory consumed: 106.398 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:12:26.jpeg
+Memory consumed: 106.117 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-10:16:31.jpeg
+Memory consumed: 106.258 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:00.jpeg
+Memory consumed: 106.039 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:09.jpeg
+Memory consumed: 106.961 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:17:11.jpeg
+Memory consumed: 106.703 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:08.jpeg
+Memory consumed: 106.641 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:45.jpeg
+Memory consumed: 106.637 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:13.jpeg
+Memory consumed: 106.379 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:12.jpeg
+Memory consumed: 106.402 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:11.jpeg
+Memory consumed: 107.070 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-11:43:09.jpeg
+Memory consumed: 106.930 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:45.jpeg
+Memory consumed: 106.371 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:03:39.jpeg
+Memory consumed: 106.617 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:19:06.jpeg
+Memory consumed: 65.715 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:12:16.jpeg
+Memory consumed: 106.766 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:45.jpeg
+Memory consumed: 106.676 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:03:39.jpeg
+Memory consumed: 106.715 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:19:06.jpeg
+Memory consumed: 106.391 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:12:16.jpeg
+Memory consumed: 107.094 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/01-Aug-23-11:08:47.jpeg
+Memory consumed: 106.660 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:06.jpeg
+Memory consumed: 106.402 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:07:57.jpeg
+Memory consumed: 106.641 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:00:19.jpeg
+Memory consumed: 106.531 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:42.jpeg
+Memory consumed: 106.930 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:42.jpeg
+Memory consumed: 106.129 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-15:38:29.jpeg
+Memory consumed: 106.445 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/11-Aug-23-10:34:46.jpeg
+Memory consumed: 106.688 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:53:14.jpeg
+Memory consumed: 105.949 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:54.jpeg
+Memory consumed: 105.992 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:24.jpeg
+Memory consumed: 106.109 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:45.jpeg
+Memory consumed: 106.090 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-11:57:47.jpeg
+Memory consumed: 106.523 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:51.jpeg
+Memory consumed: 106.672 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-11:57:14.jpeg
+Memory consumed: 106.594 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:58:54.jpeg
+Memory consumed: 106.172 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:37:42.jpeg
+Memory consumed: 106.465 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:58:45.jpeg
+Memory consumed: 106.250 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:23.jpeg
+Memory consumed: 106.906 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:55:48.jpeg
+Memory consumed: 106.285 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:24:23.jpeg
+Memory consumed: 106.895 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:07.jpeg
+Memory consumed: 106.430 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:09.jpeg
+Memory consumed: 106.352 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-15:47:45.jpeg
+Memory consumed: 65.164 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:31:37.jpeg
+Memory consumed: 106.094 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-18:36:43.jpeg
+Memory consumed: 106.770 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/04-Aug-23-10:40:53.jpeg
+Memory consumed: 106.734 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:01:48.jpeg
+Memory consumed: 106.676 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:02:03.jpeg
+Memory consumed: 106.570 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:04.jpeg
+Memory consumed: 106.410 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:03:40.jpeg
+Memory consumed: 106.871 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:30.jpeg
+Memory consumed: 106.176 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:01:09.jpeg
+Memory consumed: 106.957 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/18-Aug-23-15:13:32.jpeg
+Memory consumed: 106.461 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:18.jpeg
+Memory consumed: 106.816 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:52:53.jpeg
+Memory consumed: 106.492 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/11-Aug-23-10:36:25.jpeg
+Memory consumed: 106.066 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:11:31.jpeg
+Memory consumed: 106.836 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:02:03.jpeg
+Memory consumed: 106.375 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:31:19.jpeg
+Memory consumed: 106.734 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:11:46.jpeg
+Memory consumed: 106.488 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:03.jpeg
+Memory consumed: 106.137 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/04-Aug-23-10:46:00.jpeg
+Memory consumed: 65.480 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:52.jpeg
+Memory consumed: 107.000 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-12:05:46.jpeg
+Memory consumed: 105.996 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:09.jpeg
+Memory consumed: 106.246 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:03.jpeg
+Memory consumed: 106.684 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:05.jpeg
+Memory consumed: 106.727 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:51.jpeg
+Memory consumed: 106.625 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:09:21.jpeg
+Memory consumed: 106.262 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:13.jpeg
+Memory consumed: 107.371 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:27.jpeg
+Memory consumed: 106.074 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:49:15.jpeg
+Memory consumed: 106.227 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:58:57.jpeg
+Memory consumed: 106.402 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:57.jpeg
+Memory consumed: 65.281 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:55.jpeg
+Memory consumed: 106.898 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:27.jpeg
+Memory consumed: 106.359 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:00.jpeg
+Memory consumed: 106.582 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-14:54:45.jpeg
+Memory consumed: 106.230 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:58:51.jpeg
+Memory consumed: 106.391 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:05:39.jpeg
+Memory consumed: 65.375 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:10.jpeg
+Memory consumed: 65.438 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:07:26.jpeg
+Memory consumed: 106.824 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:03:46.jpeg
+Memory consumed: 106.812 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:21.jpeg
+Memory consumed: 106.230 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:48.jpeg
+Memory consumed: 106.520 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-15:36:56.jpeg
+Memory consumed: 106.754 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:06.jpeg
+Memory consumed: 106.684 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:51.jpeg
+Memory consumed: 106.492 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:03.jpeg
+Memory consumed: 106.816 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-15:39:55.jpeg
+Memory consumed: 106.379 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:53:30.jpeg
+Memory consumed: 106.266 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:06.jpeg
+Memory consumed: 106.887 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-14:56:19.jpeg
+Memory consumed: 106.121 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:30.jpeg
+Memory consumed: 106.512 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:56.jpeg
+Memory consumed: 106.133 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-11:58:30.jpeg
+Memory consumed: 106.207 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:06:46.jpeg
+Memory consumed: 106.020 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:03.jpeg
+Memory consumed: 106.215 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:48.jpeg
+Memory consumed: 106.211 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:01:03.jpeg
+Memory consumed: 106.410 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:48.jpeg
+Memory consumed: 106.797 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:39.jpeg
+Memory consumed: 106.035 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:45.jpeg
+Memory consumed: 106.379 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:53:35.jpeg
+Memory consumed: 65.637 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:51.jpeg
+Memory consumed: 106.426 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:51.jpeg
+Memory consumed: 106.051 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:31:26.jpeg
+Memory consumed: 106.543 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/04-Aug-23-10:39:09.jpeg
+Memory consumed: 106.902 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:00.jpeg
+Memory consumed: 106.137 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/04-Aug-23-10:43:06.jpeg
+Memory consumed: 106.113 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/11-Aug-23-10:38:35.jpeg
+Memory consumed: 106.238 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:58.jpeg
+Memory consumed: 106.676 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/11-Aug-23-10:35:35.jpeg
+Memory consumed: 106.133 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:01:15.jpeg
+Memory consumed: 106.898 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:15.jpeg
+Memory consumed: 107.184 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:31:34.jpeg
+Memory consumed: 106.766 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:31:29.jpeg
+Memory consumed: 65.711 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:17:03.jpeg
+Memory consumed: 106.883 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:12:26.jpeg
+Memory consumed: 106.852 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-10:16:31.jpeg
+Memory consumed: 106.027 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:00.jpeg
+Memory consumed: 106.750 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:09.jpeg
+Memory consumed: 106.730 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:17:11.jpeg
+Memory consumed: 106.227 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:08.jpeg
+Memory consumed: 106.895 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:45.jpeg
+Memory consumed: 106.320 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:13.jpeg
+Memory consumed: 106.297 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:12.jpeg
+Memory consumed: 106.641 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:11.jpeg
+Memory consumed: 106.844 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-11:43:09.jpeg
+Memory consumed: 106.824 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:45.jpeg
+Memory consumed: 106.094 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:03:39.jpeg
+Memory consumed: 106.055 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:19:06.jpeg
+Memory consumed: 106.953 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:12:16.jpeg
+Memory consumed: 106.750 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/01-Aug-23-11:08:47.jpeg
+Memory consumed: 106.125 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:06.jpeg
+Memory consumed: 106.371 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:07:57.jpeg
+Memory consumed: 106.336 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:00:19.jpeg
+Memory consumed: 106.566 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:42.jpeg
+Memory consumed: 106.367 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:42.jpeg
+Memory consumed: 106.086 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-15:38:29.jpeg
+Memory consumed: 107.148 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/11-Aug-23-10:34:46.jpeg
+Memory consumed: 106.371 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:53:14.jpeg
+Memory consumed: 106.723 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:54.jpeg
+Memory consumed: 106.484 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:24.jpeg
+Memory consumed: 106.512 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:45.jpeg
+Memory consumed: 106.164 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-11:57:47.jpeg
+Memory consumed: 106.547 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:51.jpeg
+Memory consumed: 106.473 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-11:57:14.jpeg
+Memory consumed: 107.250 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:58:54.jpeg
+Memory consumed: 106.266 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:37:42.jpeg
+Memory consumed: 107.133 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:58:45.jpeg
+Memory consumed: 107.223 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:23.jpeg
+Memory consumed: 106.637 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:55:48.jpeg
+Memory consumed: 106.160 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:24:23.jpeg
+Memory consumed: 106.031 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:07.jpeg
+Memory consumed: 107.129 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:09.jpeg
+Memory consumed: 107.223 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-15:47:45.jpeg
+Memory consumed: 106.832 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:31:37.jpeg
+Memory consumed: 106.984 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-18:36:43.jpeg
+Memory consumed: 106.312 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/04-Aug-23-10:40:53.jpeg
+Memory consumed: 106.883 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:01:48.jpeg
+Memory consumed: 106.582 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:02:03.jpeg
+Memory consumed: 106.289 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:04.jpeg
+Memory consumed: 106.543 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:03:40.jpeg
+Memory consumed: 105.863 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:30.jpeg
+Memory consumed: 106.855 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:01:09.jpeg
+Memory consumed: 106.109 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/18-Aug-23-15:13:32.jpeg
+Memory consumed: 106.070 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:18.jpeg
+Memory consumed: 106.465 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:52:53.jpeg
+Memory consumed: 106.496 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/11-Aug-23-10:36:25.jpeg
+Memory consumed: 106.316 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:11:31.jpeg
+Memory consumed: 107.152 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:02:03.jpeg
+Memory consumed: 106.461 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:31:19.jpeg
+Memory consumed: 106.551 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:11:46.jpeg
+Memory consumed: 106.688 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:03.jpeg
+Memory consumed: 106.742 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/04-Aug-23-10:46:00.jpeg
+Memory consumed: 106.145 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:52.jpeg
+Memory consumed: 106.422 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-12:05:46.jpeg
+Memory consumed: 106.160 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:09.jpeg
+Memory consumed: 106.629 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:03.jpeg
+Memory consumed: 106.672 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:05.jpeg
+Memory consumed: 106.105 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:51.jpeg
+Memory consumed: 106.734 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/08-Aug-23-12:09:21.jpeg
+Memory consumed: 106.352 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:13.jpeg
+Memory consumed: 106.113 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:27.jpeg
+Memory consumed: 106.672 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:49:15.jpeg
+Memory consumed: 107.094 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:58:57.jpeg
+Memory consumed: 106.238 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:57.jpeg
+Memory consumed: 65.340 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:55.jpeg
+Memory consumed: 106.301 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:27.jpeg
+Memory consumed: 106.906 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:00.jpeg
+Memory consumed: 106.383 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-14:54:45.jpeg
+Memory consumed: 106.152 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:58:51.jpeg
+Memory consumed: 107.195 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:05:39.jpeg
+Memory consumed: 106.230 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:10.jpeg
+Memory consumed: 106.359 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:07:26.jpeg
+Memory consumed: 106.078 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:03:46.jpeg
+Memory consumed: 105.988 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:21.jpeg
+Memory consumed: 106.129 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:48.jpeg
+Memory consumed: 107.113 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-15:36:56.jpeg
+Memory consumed: 106.691 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:06.jpeg
+Memory consumed: 106.160 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:51.jpeg
+Memory consumed: 106.328 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:33:03.jpeg
+Memory consumed: 107.031 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-15:39:55.jpeg
+Memory consumed: 106.332 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-10:53:30.jpeg
+Memory consumed: 106.879 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:36:06.jpeg
+Memory consumed: 106.699 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-14:56:19.jpeg
+Memory consumed: 106.371 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:30.jpeg
+Memory consumed: 106.719 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:35:56.jpeg
+Memory consumed: 106.617 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/17-Aug-23-11:58:30.jpeg
+Memory consumed: 106.629 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/15-Aug-23-19:06:46.jpeg
+Memory consumed: 106.695 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:34:03.jpeg
+Memory consumed: 106.641 MB
+File Name: /home/pi/RPI-1/deployment_imgs/input/22-Aug-23-11:32:48.jpeg
+Memory consumed: 106.395 MB
+File Name: /home/pi/RPI-1/mobilenet/input/04-Aug-23-10:43:06.jpeg
+Memory consumed: 106.949 MB
+File Name: /home/pi/RPI-1/mobilenet/input/04-Aug-23-10:43:06.jpeg
+Memory consumed: 106.836 MB
+File Name: /home/pi/RPI-1/mobilenet/input/04-Aug-23-10:43:06.jpeg
+Memory consumed: 106.402 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-12:12:16.jpeg
+Memory consumed: 106.074 MB
+File Name: /home/pi/RPI-1/mobilenet/input/08-Aug-23-12:12:26.jpeg
+Memory consumed: 105.980 MB
+File Name: /home/pi/RPI-1/mobilenet/input/11-Aug-23-10:34:46.jpeg
+Memory consumed: 106.609 MB
+File Name: /home/pi/RPI-1/mobilenet/input/15-Aug-23-15:47:45.jpeg
+Memory consumed: 106.375 MB
+File Name: /home/pi/RPI-1/mobilenet/input/22-Aug-23-10:31:34.jpeg
+Memory consumed: 107.090 MB
