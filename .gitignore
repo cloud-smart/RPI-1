@@ -1,6 +1,5 @@
 deployment_imgs/
 mobilenet/input/
 mobilenet/output/
-previous_captured_detected_imgs/
 gdrive_upload/token.pickle
 __pycache__
