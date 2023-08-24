@@ -3,6 +3,7 @@ Description=Run object detection
 After=network.target
 
 [Service]
+ExecStartPre=/bin/sleep 5
 ExecStart=/usr/bin/python3 /home/pi/RPI-1/obj_detect.py
 WorkingDirectory=/home/pi/RPI-1/
 Restart=always

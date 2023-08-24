@@ -3,6 +3,7 @@ Description=Captures images
 After=network.target
  
 [Service]
+ExecStartPre=/bin/sleep 3
 ExecStart=/usr/bin/python3 /home/pi/RPI-1/image_capture.py
 WorkingDirectory=/home/pi/RPI-1/
 Restart=always
