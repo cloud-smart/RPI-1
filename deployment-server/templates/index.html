@@ -46,7 +46,8 @@
                 for (var i = 0; i < data.length; i++) {
                     var place = data[i]['Place'];
                     var time = data[i]['Time'];
-                    html += '<tr><td>' + place + '</td><td>' + time + '</td></tr>';
+                    var coords = data[i]['Coordinates'];
+                    html += '<tr><td>' + place + '</td><td>' + time + '</td></tr>' + coords + '</td></tr>';
                 }
 
                 html += '</table>';
