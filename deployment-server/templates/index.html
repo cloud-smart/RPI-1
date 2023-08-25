@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Auto-Display Example</title>
+    <title>Motion Detection Log</title>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <style>
         /* Inline CSS styles */
@@ -40,14 +40,14 @@
                 var html = '<table class="data-table">';
         
                 // Generate table headers
-                html += '<tr><th>Place</th><th>Time</th></tr>';
+                html += '<tr><th>Place</th><th>Time</th><th>Coordinates</th></tr>';
 
                 // Generate table rows
                 for (var i = 0; i < data.length; i++) {
                     var place = data[i]['Place'];
                     var time = data[i]['Time'];
                     var coords = data[i]['Coordinates'];
-                    html += '<tr><td>' + place + '</td><td>' + time + '</td></tr>' + coords + '</td></tr>';
+                    html += '<tr><td>' + place + '</td><td>' + time + '</td><td>' + coords + '</td></tr>';
                 }
 
                 html += '</table>';

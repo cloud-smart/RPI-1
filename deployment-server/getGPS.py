@@ -4,8 +4,9 @@ import string
 import pynmea2
 
 def getCoords() :
+	#while True:
 	gps=""
-	
+		
 	port = "/dev/serial0"
 	ser = serial.Serial(port, baudrate=9600, timeout=0.5)
 	dataout = pynmea2.NMEAStreamReader()
@@ -19,5 +20,7 @@ def getCoords() :
 			gps = "Latitude = " + str(lat) + " and Longitude = " + str(lng)
 
 		gps = "Latitude = " + str(lat) + " and Longitude = " + str(lng)
+		print("in")
+		print(gps)
 	return gps
 		

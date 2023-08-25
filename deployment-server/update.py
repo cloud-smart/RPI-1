@@ -26,9 +26,10 @@ collection = db['Motion_detected']
 #collection.delete_many({})
 timee = str(sys.argv[1]) + now.strftime("\t %d/%m/%Y %H:%M:%S")
 s = getCoords()
+print(s)
 mydict = { "Place": "SCIS front-side", "Time": timee, "Coordinates" : s}
 
 x = collection.insert_one(mydict)
 
-print("Human detected! Alert sent" + x.inserted_id)
+print("Human detected! Alert sent" + str(x.inserted_id))
 
